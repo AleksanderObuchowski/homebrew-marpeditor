@@ -1,6 +1,6 @@
 cask "marpeditor" do
-  version "0.0.1-test"
-  sha256 "f4df19ef34e5c321a05a00e150be2df1ce3e4d7cb179cf8dbb77fcf5b1d87499"
+  version "0.1.0"
+  sha256 "34cb3d36ad80164c8073842abc5c42c364bab5fe59c98ac25f347a370f815eb5"
 
   url "https://github.com/AleksanderObuchowski/MarpEditor/releases/download/v#{version}/MarpEditor_#{version}_universal.dmg",
       verified: "github.com/AleksanderObuchowski/MarpEditor/"
